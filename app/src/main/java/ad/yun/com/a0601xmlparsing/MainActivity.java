@@ -27,7 +27,7 @@ import org.w3c.dom.NodeList;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
-//깃 허브에서 작업한 내용 - 안드로이드 스튜디오에서 업데이트
+
 public class MainActivity extends AppCompatActivity {
     //ListView 출력을 위한 변수
     ArrayList<String> cities;
